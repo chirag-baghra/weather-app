@@ -24,3 +24,5 @@ jobs:
       run: |
         docker build -t chiragbaghra/python-project:weather-app-prod .
         docker push chiragbaghra/python-project:weather-app-prod
+
+
